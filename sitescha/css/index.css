@@ -1,0 +1,48 @@
+*{
+    font-family:'Times New Roman', Times, serif ;
+}
+
+
+   .fundo{
+    background: rgb(240, 244, 247);
+    padding: 40px;
+   }
+  a{
+    color: black;
+  }
+a:hover{
+    color:green;
+}
+
+h1{
+ text-align: center;
+ color:rgba(77, 65, 65, 0.589);
+}
+
+h2{
+    text-align: center;
+    color:rgba(77, 65, 65, 0.589);
+}
+
+p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+footer{
+    text-align: center;
+    border:solid 1px;
+    border-radius: 30px;
+    padding: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    text-align: center;
+    color: white;
+ 
+}
